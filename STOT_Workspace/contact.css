@@ -60,11 +60,12 @@ li a.active {
 
 #search-button {
     position: absolute;
-    width: 50px;
-    height: 20px;
-    padding: 12px 20px;
+    width: 60px;
+    height: 30px;
+    padding: 6px 10px;
     margin-left: 875px;
-    margin-top: -50px;
+    margin-top: -55px;
+    text-align: center;
 }
 
 body {
